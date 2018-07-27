@@ -10,6 +10,9 @@ class GardenGnome
   def personality
     @personality
   end
+  def gluten_allergy
+    @gluten_allergy
+  end
   def gnaw
     return "Gnawing on a tree!!!"
   end
