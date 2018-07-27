@@ -21,4 +21,4 @@ class GardenGnome
   end
 end
 
-# gnome = GardenGnome.new("evil", "blue")
+gnome = GardenGnome.new("evil", "blue")
