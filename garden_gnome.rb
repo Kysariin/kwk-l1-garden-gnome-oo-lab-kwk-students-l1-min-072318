@@ -4,9 +4,9 @@ class GardenGnome
     @hat_color = hat_color
     @personality = "evil"
   end
-  # def personality= (personality)
-  #   @personality 
-  # end
+  def hat_color
+    @hat_color
+  end
   def personality
     @personality
   end
