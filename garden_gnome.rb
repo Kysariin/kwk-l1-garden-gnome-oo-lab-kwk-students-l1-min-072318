@@ -5,7 +5,7 @@ class GardenGnome
     @hat_color = hat_color
   end
   def personality= (personality)
-    @personality = "eil"
+    @personality = "evil"
   end
   def gnaw
     return "Gnawing on a tree!!!"
