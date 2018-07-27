@@ -18,3 +18,4 @@ class GardenGnome
   end
 end
 
+gnome = GardenGnome.new("evil", "blue")
