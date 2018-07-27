@@ -6,6 +6,9 @@ class GardenGnome
   # def personality= (personality)
   #   @personality 
   # end
+  def personality
+    @personality
+  end
   def gnaw
     return "Gnawing on a tree!!!"
   end
