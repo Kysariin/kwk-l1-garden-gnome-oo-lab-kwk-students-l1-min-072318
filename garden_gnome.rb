@@ -24,4 +24,4 @@ class GardenGnome
   end
 end
 
-# words = GardenGnome.new("evil", "blue")
+intro_gnome = GardenGnome.new("Frankie the Frightening", "324")
