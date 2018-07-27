@@ -7,7 +7,7 @@ class GardenGnome
   # def personality= (personality)
   #   @personality 
   # end
-  def personality="evil"
+  def personality
     @personality
   end
   def gnaw
